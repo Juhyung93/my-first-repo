@@ -6,6 +6,6 @@ public class _01_Array {
         //String[] coffees=new String[]{"a","b"};
         String[] coffees={"a","b"};
         coffees[1]="hello";
-
+//a
     }
 }
